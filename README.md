@@ -29,7 +29,8 @@ This project demonstrates deploying a secure, scalable web application using AWS
 https://www.mehrwancloud.org
 
 ## Screenshots
-(Add images here)
+<img width="1920" height="1008" alt="EC2 launched" src="https://github.com/user-attachments/assets/934199d5-bb7c-4959-adb6-69a9e3e0ffc9" />
+
 
 ## Steps
 1. Launch EC2 instance
