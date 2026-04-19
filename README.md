@@ -13,7 +13,8 @@ This project demonstrates deploying a secure, scalable web application using AWS
 
  ## Architecture Flow
 Client → Domain (Namecheap DNS) → Application Load Balancer (HTTPS) → Target Group → EC2 Instance
-  
+ <img width="1536" height="1024" alt="serverless web application" src="https://github.com/user-attachments/assets/6e221c67-b11e-41e6-b5d4-75e954bef348" />
+
 ## Architecture
 - EC2 Instance (Amazon Linux 2023)
 - Application Load Balancer (ALB)
