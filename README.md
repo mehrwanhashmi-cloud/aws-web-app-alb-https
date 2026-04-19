@@ -1,6 +1,6 @@
 # Highly Available Web Application on AWS
-Deployed a highly available and secure web application on AWS using EC2, Application Load Balancer, ACM (HTTPS), and custom domain integration.
-
+ Designed and deployed a production-style web architecture with HTTPS, load balancing, and custom domain routing.
+ 
 ## Overview
 This project demonstrates deploying a secure, scalable web application using AWS services including EC2, Application Load Balancer, and ACM with a custom domain.
 
@@ -11,7 +11,7 @@ This project demonstrates deploying a secure, scalable web application using AWS
 - Implemented health checks and target group monitoring
 - Achieved end-to-end HTTPS deployment
 
-- ## Architecture Flow
+ ## Architecture Flow
 Client → Domain (Namecheap DNS) → Application Load Balancer (HTTPS) → Target Group → EC2 Instance
   
 ## Architecture
@@ -69,4 +69,4 @@ https://www.mehrwancloud.org
 - DNS configuration
 - Real-world deployment workflow
 
- Built through hands-on learning and AWS documentation.
+ This project was built through hands-on learning and AWS documentation.
